@@ -1,0 +1,19 @@
+
+.box{
+  width: 400px;
+  height: 400px;
+  border: 2px rgb(0, 0, 0) solid;
+  background-color: aqua;
+  left: 80px;
+  position: relative;
+}
+.itam{
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  position: static;
+  top: 40px;
+
+
+
+}
